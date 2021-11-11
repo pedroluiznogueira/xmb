@@ -1,2 +1,18 @@
-# xmb
-That's the monorepository of the projects developed for xmb, that's only for organization and documentation purposes, the folders within it don't have a .git repository inside, don't try to clone it. I'll be leaving the real projects repositories used for development in the Read.me file of this monorepository.
+# XMB project monorepository
+
+## Repositories used while developing the system
+
+<a href="https://github.com/pedroluiznogueira/xmb-api">Click here to visit API repository used for development</a> <br>
+<a href="https://github.com/pedroluiznogueira/xmb-front">Click here to visit Front-end application repository used for development</a>
+
+## Backend folder
+
+-> If you visit the backend folder within this project, you'll find: <br>
+   
+   1. The API Architecture image 
+   2. The DATABASE diagram image <br>
+
+
+<a href="https://github.com/pedroluiznogueira/xmb-api">Click here to visit it</a> <br>
+
+
